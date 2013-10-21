@@ -1,0 +1,22 @@
+{
+    "name": "russholio/device-sync",
+    "description": "The job that performs device sync."
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Russell Holman",
+            "email": "russholio@gmail.com",
+            "role": "Lead Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "devco/model": "1.0.x-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "sync": "src"
+        }
+    }
+}
+
