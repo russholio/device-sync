@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "sync": "src"
+            "device-sync": "src"
         }
     }
 }
