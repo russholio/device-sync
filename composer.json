@@ -1,6 +1,6 @@
 {
     "name": "russholio/device-sync",
-    "description": "The job that performs device sync."
+    "description": "The job that performs device sync.",
     "license": "MIT",
     "authors": [
         {
